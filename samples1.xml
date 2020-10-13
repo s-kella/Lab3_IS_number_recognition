@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<info type="1" width="10" height="12" />
+	<matrix type="1" number="1">
+        <row>0000000000</row>
+        <row>0000000000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000000000</row>
+        <row>0000000000</row>
+	</matrix>
+    <matrix type="1" number="2">
+        <row>0000000000</row>
+        <row>0000000000</row>
+        <row>0000011000</row>
+        <row>0000101000</row>
+        <row>0001001000</row>
+        <row>0010001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000000000</row>
+	</matrix>
+	<matrix type="1" number="3">
+        <row>0000000000</row>
+        <row>0000000000</row>
+        <row>0000011000</row>
+        <row>0001101000</row>
+        <row>0010001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000001000</row>
+        <row>0000000000</row>
+        <row>0000000000</row>
+        <row>0000000000</row>
+	</matrix>
+	<matrix type="1" number="3">
+        <row>0000000000</row>
+        <row>0000000100</row>
+        <row>0000001100</row>
+        <row>0000110100</row>
+        <row>0001000100</row>
+        <row>0010000100</row>
+        <row>0000000100</row>
+        <row>0000000100</row>
+        <row>0000000100</row>
+        <row>0000000100</row>
+        <row>0000000000</row>
+        <row>0000000000</row>
+    </matrix>
+</root>
